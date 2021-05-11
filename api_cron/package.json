@@ -26,7 +26,7 @@
         "file-base64": "^1.0.0",
         "jsonwebtoken": "^8.4.0",
         "kue": "^0.11.6",
-        "lodash": "^4.17.11",
+        "lodash": "^4.17.21",
         "lodash.assign": "^4.2.0",
         "lodash.clonedeep": "^4.5.0",
         "lodash.differencewith": "^4.5.0",
