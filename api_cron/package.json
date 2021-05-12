@@ -49,7 +49,7 @@
         "morgan": "^1.9.1",
         "node-cron": "^2.0.3",
         "nodeidon": "0.0.3",
-        "nodemailer": "^4.7.0",
+        "nodemailer": "^6.4.16",
         "path": "^0.12.7",
         "pug": "^2.0.3",
         "redis": "^2.8.0",
