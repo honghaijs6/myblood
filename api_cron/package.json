@@ -20,7 +20,7 @@
         "debug": "^4.1.1",
         "dotenv": "^7.0.0",
         "eslint": "^5.11.1",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "express-fileupload": "^1.0.0",
         "express-jwt": "^5.3.1",
         "file-base64": "^1.0.0",
